@@ -1,0 +1,19 @@
+use base1
+
+db.veterinaria.insertOne(
+	{
+	codigo:1
+	nombre_mascota:flor
+	nombre_dueño:jorge
+	raza:pitbull
+	edad:2
+	peso:150
+	telefono_contacto:114242585
+	diagnostico:corte en la pierna
+	 }
+)
+
+
+
+1.1
+
